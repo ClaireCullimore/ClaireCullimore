@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Claire</h1>
 <h3 align="center">Junior Full Stack Developer looking for an exciting new opportunity and to learn within a great team.</h3>
 
-- 🔭 I’ve recently finished **Le Wagon coding bootcamp**
+- 🔭 Completed **Le Wagon coding bootcamp**
 
-- 🌱 I’m currently learning **React.**
+- 🌱 Currently learning **React.**
 
 - 📫 How to reach me **cascullimore@gmail.com**
 
