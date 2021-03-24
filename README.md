@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Claire</h1>
-<h3 align="center">I'm a Junior Full Stack Developer looking for an exciting new opportunity and to learn with a great team.</h3>
+<h3 align="center">Junior Full Stack Developer looking for an exciting new opportunity and to learn within a great team.</h3>
 
 - 🔭 I’ve recently finished **Le Wagon coding bootcamp**
 
