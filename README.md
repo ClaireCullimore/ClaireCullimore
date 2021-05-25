@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Claire</h1>
-<h3 align="center">Junior Full Stack Developer looking for an exciting new opportunity and to learn within a great team.</h3>
+<h3 align="center">Junior Full Stack Developer and Engineering Trainer.</h3>
 
 - 🔭 Completed **Le Wagon coding bootcamp**
 
-- 🌱 Currently learning **React.**
-
-- 📫 How to reach me **cascullimore@gmail.com**
+- Engineering Trainer at Futurerproof
 
 
 <h3 align="left">Languages and Tools:</h3>
