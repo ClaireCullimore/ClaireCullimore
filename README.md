@@ -3,7 +3,7 @@
 
 - 🔭 Completed **Le Wagon coding bootcamp**
 
-- Engineering Trainer at Futurerproof
+- Engineering Trainer at Futureproof
 
 
 <h3 align="left">Languages and Tools:</h3>
